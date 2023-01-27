@@ -23,7 +23,7 @@ By using the archetype, all of the pieces will already in place so that while th
 
 <br>
 
-<img title="aem architecture" alt="aem architecture" src="archetype-structure.png">
+<img title="aem architecture" alt="aem architecture" src="./images/archetype-structure.png">
 
 
 # Usage
@@ -38,6 +38,8 @@ To generate a project, adjust the following command line to your needs:
 
 Lookup the list of available properties to see if there's more you want to adjust. https://github.com/adobe/aem-project-archetype
 
+#### Format:
+
 > mvn -B org.apache.maven.plugins:maven-archetype-plugin:3.2.1:generate \
  -D archetypeGroupId=com.adobe.aem \
  -D archetypeArtifactId=aem-project-archetype \
@@ -47,6 +49,8 @@ Lookup the list of available properties to see if there's more you want to adjus
  -D groupId="com.mysite"
 
 <br>
+
+#### Sample:
 
 >mvn -B org.apache.maven.plugins:maven-archetype-plugin:3.2.1:generate -D archetypeGroupId=com.adobe.aem - D archetypeArtifactId=aem-project-archetype -D archetypeVersion=35 -D appTitle="AEM Learning Site" -D appId="learningsite" -D groupId="com.aem.learning" -D version="0.0.1-SNAPSHOT" -D aemVersion="6.5.12" -D frontendModule=none -D includeDispatcherConfig=n
 
