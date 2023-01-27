@@ -25,6 +25,8 @@ By using the archetype, all of the pieces will already in place so that while th
 
 <img title="aem architecture" alt="aem architecture" src="./images/archetype-structure.png">
 
+<br>
+<br>
 
 # Usage
 
