@@ -54,8 +54,11 @@ An OSGi framework then offers you dynamic loading/unloading, configuration and c
 ## Sling
 AEM is built using Sling, a Web application framework based on REST principles that provides easy development of content-oriented applications. Sling uses a JCR repository, such as Apache Jackrabbit, or in the case of AEM, the CRX Content Repository, as its data store. 
 
+<br>
 
+## AEM Modules
 
+On top of the above technology stack, there are AEM specific modules that run. These modules are *AEM Sites, AEM Assets, Workflows* etc. 
 
 <br>
 <br>
