@@ -14,8 +14,6 @@ With AEM you Author and publish websites. This is achieved using two specialized
 
 ## History
 
-*****
-
 AEM before it was called as CQ (Communiqué) it was part of Day Software.
 Later, Day Software was acquired by Adobe Systems on 28 July 2010 for US $240 million.
 
@@ -25,8 +23,6 @@ From then and now Adobe is adding & enhancing it's features. And also Adobe is a
 </br>
 
 ## Architecture
-
-*****
 
 </br>
 
@@ -78,7 +74,5 @@ On top of the above technology stack, there are AEM specific modules that run. T
 </br>
 
 ## References
-
-*****
 
 1. <https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/the-basics.html?lang=en>

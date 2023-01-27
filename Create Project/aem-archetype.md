@@ -11,8 +11,6 @@ By using the archetype, all of the pieces will already in place so that while th
 
 ## The AEM Archetype is made up of modules
 
-*****
-
 * core: is a Java bundle containing all core functionality like OSGi services, listeners, and schedulers, as well as component-related Java code such as servlets and request filters.
 * it.tests: are Java-based integration tests.
 * ui.apps: contains the /apps and /etc parts of the project, i.e. JS and CSS clientlibs, components, and templates.
@@ -30,8 +28,6 @@ By using the archetype, all of the pieces will already in place so that while th
 </br>
 
 ## Usage
-
-*****
 
 To generate a project, adjust the following command line to your needs:
 
