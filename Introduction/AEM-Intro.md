@@ -21,11 +21,11 @@ From then and now Adobe is adding & enhancing it's features. And also Adobe is a
 <br>
 
 # Architecture
-<img title="aem architecture" alt="aem architecture" src="aem2.png">
+<img title="aem architecture" alt="aem architecture" src="./images/aem2.png">
 
 <br>
 
-<img title="aem architecture" alt="aem architecture" src="aem1.png">
+<img title="aem architecture" alt="aem architecture" src="./images/aem1.png">
 
 <br>
 
