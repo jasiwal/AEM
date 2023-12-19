@@ -142,6 +142,4 @@ http://localhost:4502/etc/acs-commons/jcr-compare.html
 http://localhost:4502/etc/acs-commons/version-compare.html
 63. Workflow Remover
 http://localhost:4502/etc/acs-commons/workflow-remover.html
-.......
-ACS Commons
-.......
+
