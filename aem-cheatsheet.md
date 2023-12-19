@@ -1,3 +1,4 @@
+## Main
 1. CRXDE Lite
 http://localhost:4502/crx/de/index.jsp
 2. CRX Explorer
@@ -16,8 +17,7 @@ http://localhost:4502/system/console/bundles
 http://localhost:4502/libs/cq/search/content/querydebug.html
 
 
-General
-.......
+## General
 9. Search UI
 http://localhost:4502/crx/explorer/ui/search.jsp?Path=&Query=
 10. Client Libraries Dumplibs
@@ -38,7 +38,8 @@ http://localhost:4502/crx/explorer/nodetypes/index.jsp
 http://localhost:4502/system/console/jmx/com.adobe.granite%3Atype%3DRepository
 18. Dialog Conversion Console
 http://localhost:4502/libs/cq/dialogconversion/content/console.html
-.......
+
+
 19. Maven Dependency Finder
 http://localhost:4502/system/console/depfinder
 20. Namespaces: Namespaces match your
@@ -56,8 +57,8 @@ http://localhost:4502/siteadmin
 http://localhost:4502/damadmin
 
 
-Classic UI
-........
+## Classic UI
+
 26. User Reports
 http://localhost:4502/etc/reports/userreport.html
 27. User Notifications Inbox
@@ -77,7 +78,7 @@ http://localhost:4502/libs/launches/content
 http://localhost:4502/etc/replication.html
 34. Reports Console
 http://localhost:4502/miscadmin#/etc/reports
-.......
+
 36. Author Activity Audit
 http://localhost:4502/etc/reports/auditreport.html
 37. Task Management Console
@@ -101,9 +102,9 @@ http://localhost:4502/projects.html
 http://localhost:4502/sites.html/content
 46. DAM Console
 http://localhost:4502/assets.html/content/dam
-47.Useradmin Console
+47. Useradmin Console
 http://localhost:4502/libs/granite/security/content/useradmin.html
-48.Groupadmin Console
+48. Groupadmin Console
 http://localhost:4502/libs/granite/security/content/groupadmin.html
 49. Offloading Admin Console
 http://localhost:4502/libs/granite/offloading/content/view.html
@@ -111,10 +112,10 @@ http://localhost:4502/libs/granite/offloading/content/view.html
 http://localhost:4502/libs/granite/topology/content/view.html
 51. Health Reports Console
 http://localhost:4502/libs/granite/operations/content/healthreports.html
-.......
 
 
-Touch UI
+
+## Touch UI
 52. Diagnosis Console
 http://localhost:4502/libs/granite/operations/content/diagnosis.html
 53. Maintenance Console
@@ -126,11 +127,11 @@ http://localhost:4502/libs/granite/distribution/content
 /distribution.html
 56. AEM Forms
 http://localhost:4502/aem/forms.html/content/dam/formsanddocuments
-57.AEM Apps
+57. AEM Apps
 http://localhost:4502/aem/apps.html/content/phonegap
-58.AEM Publications
+58. AEM Publications
 http://localhost:4502/aem/publications.html/content/publications
-.......
+
 59. Search Forms Window
 http://localhost:4502/libs/cq/core/content/tools/customsearch/searchfacetformlister.html
 60. Oak Index Manager
